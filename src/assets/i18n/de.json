@@ -38,6 +38,10 @@
   },
 
   "PROJECTS": {
+    "DABUBBLE": {
+      "TITLE": "DABubble",
+      "DESCRIPTION": "Diese Slack-Clone-App verändert die Art, wie Teams kommunizieren und zusammenarbeiten. Dank ihrer intuitiven Oberfläche, Echtzeit-Nachrichten und Kanalorganisation wird Teamwork mühelos."
+    },
     "JOIN": {
       "TITLE": "Join",
       "DESCRIPTION": "Aufgabenmanager inspiriert vom Kanban-System. Erstellen und organisieren Sie Aufgaben mit Drag-and-Drop-Funktionen, weisen Sie Benutzer und Kategorien zu."
@@ -45,10 +49,6 @@
     "EL_POLLO_LOCO": {
       "TITLE": "El Pollo Loco",
       "DESCRIPTION": "Spring-, Lauf- und Wurfspiel basierend auf dem objektorientierten Ansatz. Helfen Sie Pepe, Münzen und Tabasco-Salsa zu finden, um gegen das verrückte Huhn zu kämpfen."
-    },
-    "POKEDEX": {
-      "TITLE": "Pokédex",
-      "DESCRIPTION": "Basierend auf der PokéAPI eine einfache Bibliothek, die Pokémon-Informationen bereitstellt und katalogisiert."
     }
   },
 
